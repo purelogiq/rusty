@@ -1,0 +1,21 @@
+Instal rustup which is a installation/version manager for rust
+- curl https://sh.rustup.rs -sSf | sh
+- relog into the shell for the env to be updated
+- cargo and rustc are now available in the PATH
+
+Create a GitHub repo to version my adventures learning rust
+- https://github.com/purelogiq/rusty
+
+My first Rust Program
+- Hello world tutorial: https://rustbyexample.com/hello.html
+- compile: rustc hello_world.rs
+- run: ./hello_world
+- it worked :D
+
+Install IntelliJ Rust Plugin to get nice syntax highlighting and autocomplete
+- https://intellij-rust.github.io/
+
+Next week:
+- Blackjack in rust
+- Figure out what and how cargo works for dependancies
+
