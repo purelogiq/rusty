@@ -1,0 +1,6 @@
+Trying to make a loop which deals a random card every loop.
+This is a prelude to making blackjack in rust.
+
+- use std::io library for input
+- You have to print things with "{}", variable. Can't print direclty apparently.
+  Or at least not yet...
